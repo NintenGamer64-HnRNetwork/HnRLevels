@@ -1,6 +1,6 @@
 main: com.weebly.openboxtechnologies.hnrlevels.Main
 name: HnRLevels
-version: 1.0
+version: Beta 1.0
 author: TechnoBrony
 description: HnR Levelling System
 commands:
